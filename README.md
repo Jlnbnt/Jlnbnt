@@ -1,6 +1,6 @@
-# 🔥 TypeScript Enthusiast | Code Quality Advocate 🚀
+<h1 align="center">🔥 TypeScript Enthusiast | Code Quality Advocate 🚀<h1/>
 
-
+![alt text](https://media.licdn.com/dms/image/D4D16AQGSwYgC5UvL3A/profile-displaybackgroundimage-shrink_350_1400/0/1670369432866?e=1703721600&v=beta&t=FwNK3e6ut9b2-1nuXQDljJdqVBE1madivNzi6hiLCzI)
 
 # About Me
 Passionate about technological innovation and driven by a relentless pursuit of excellence in software development.
@@ -26,7 +26,7 @@ My objective is to enhance the codebase continually. I'm dedicated to proposing 
 # Contact Me
 Feel free to reach out to discuss collaborations, projects, or any other inquiries!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&labelColor=0077B5)](https://www.linkedin.com/in/julien-benat/)
-[![Gmail](https://img.shields.io/badge/Mail-0077B5?style=flat&logo=gmail&labelColor=0077B5)](mailto:benat.julien@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-benat/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benat.julien@gmail.com)
+ 
 
