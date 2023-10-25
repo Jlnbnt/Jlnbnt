@@ -1,4 +1,4 @@
-<h1 align="center">🔥 TypeScript Enthusiast | Code Quality Advocate 🚀<h1/>
+# 🔥 TypeScript Enthusiast | Code Quality Advocate 🚀
 
 ![alt text](https://media.licdn.com/dms/image/D4D16AQGSwYgC5UvL3A/profile-displaybackgroundimage-shrink_350_1400/0/1670369432866?e=1703721600&v=beta&t=FwNK3e6ut9b2-1nuXQDljJdqVBE1madivNzi6hiLCzI)
 
