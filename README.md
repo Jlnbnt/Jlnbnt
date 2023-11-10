@@ -1,5 +1,7 @@
 # 🔥 TypeScript Enthusiast | Code Quality Advocate 🚀
 
+![compass](https://media.licdn.com/dms/image/D4E16AQGitaZSg8kNcQ/profile-displaybackgroundimage-shrink_350_1400/0/1699318179870?e=1704931200&v=beta&t=6XTlpEA5DtRYrK3YCz1FjgNylEp0ViIMAEV4YGpWof4)
+
 # About Me
 Passionate about technological innovation and driven by a relentless pursuit of excellence in software development.
 I specialize in harnessing the power of TypeScript to craft high-performing, scalable, and highly maintainable applications.
